@@ -1,5 +1,7 @@
 # ecpp — Análisis Forense de Logs Exim y Correo Saliente (`v2.0.0`)
 
+![ecpp cover](ecpp-cover.webp)
+
 Una CLI moderna e independiente en Bash + Python 3 para **análisis forense de logs Exim, triaje de spam saliente, rastreo de scripts PHP (`cwd=`), correlación de IPs IMAP/POP3 y conteo de rebotes** — reemplazando el legado en Perl `ecpp_2.pl` (2009–2013) con Python 3 stdlib y salidas `table` / `json` / `csv`.
 
 ## Modernización Histórica

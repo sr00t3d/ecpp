@@ -1,5 +1,7 @@
 # ecpp — Exim & Mail Log Forensics / Outbound Spam Analyzer (`v2.0.0`)
 
+![ecpp cover](ecpp-cover.webp)
+
 A modern, standalone Bash + Python 3 CLI for **Exim mail log forensics, outbound spam triage, PHP `cwd=` script-origin tracking, IMAP/POP3 auth IP correlation, and bounce analysis** — replacing legacy 2009–2013 Perl `ecpp_2.pl` with pure Python 3 stdlib and `table` / `json` / `csv` outputs.
 
 ## Historical Modernization
